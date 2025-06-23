@@ -16,3 +16,7 @@ What it does
 - This is **not** a real login system.
 - No passwords or sensitive data are stored.
 - This is a **safe, frontend-only learning demo**.
+
+Website link:
+
+https://2d-game-dev.github.io/Frontend-Storage-Practice/
