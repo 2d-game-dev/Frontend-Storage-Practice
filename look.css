@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+html, body{
+    height:100%;
+}
+
+form {
+    background-color: rgb(238, 238, 238);
+    padding:20px;
+    border-radius: 20px;
+}
+
+input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:none;
+    border-radius: 10px;
+    padding:15px;
+}
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;   
+}
+
+#btn, #btn1{
+  border:none;
+  background-color: rgb(186, 186, 186);
+  padding:12px;
+  border-radius: 12px;
+  transition: background-color 0.5s ease;
+  margin:3px;
+}
+
+#btn1:hover{
+    color:white;
+    background-color: coral;
+    cursor: pointer;
+}
+
+#btn:hover{
+    color:white;
+    background-color:chartreuse;
+    cursor: pointer;
+}
