@@ -1,4 +1,4 @@
-# Frontend-Storage-
+# Frontend-Storage-Practice
 
 
 This is a **learning project** created to practice working with **cookies** and **localStorage** in JavaScript.
